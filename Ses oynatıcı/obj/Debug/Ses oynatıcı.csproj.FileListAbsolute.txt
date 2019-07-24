@@ -1,0 +1,7 @@
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\bin\Debug\Ses oynatıcı.exe.config
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\bin\Debug\Ses oynatıcı.exe
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\bin\Debug\Ses oynatıcı.pdb
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\obj\Debug\Ses oynatıcı.csprojAssemblyReference.cache
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\obj\Debug\Ses oynatıcı.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\obj\Debug\Ses oynatıcı.exe
+C:\Users\Ahmet Karadağ\source\repos\Ses oynatıcı\Ses oynatıcı\obj\Debug\Ses oynatıcı.pdb
